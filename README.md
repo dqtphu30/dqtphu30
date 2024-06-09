@@ -41,7 +41,7 @@ I'm Thien Phu, a third-year student majoring in Data Science, with a strong pass
 
 
 # Streak Stats Activity
-![dqtphu30's GitHub stats](https://github-readme-stats.vercel.app/api?username=dqtphu30&show_icons=true)
+<!--![dqtphu30's GitHub stats](https://github-readme-stats.vercel.app/api?username=dqtphu30&show_icons=true)-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dqtphu30&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
