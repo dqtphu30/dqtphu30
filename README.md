@@ -7,7 +7,7 @@
   
 I'm Thien Phu, a third-year student majoring in Data Science, with a strong passion for turning data into valuable insights. Possessing a solid foundation in statistical analysis, machine learning, and data visualization, I aspire to apply my skills and knowledge to the position of Data Analyst
 
-- 🔭 I’m currently seeking a Data Analyst Internship
+- 🔭 I’m currently seeking a Data Sciece Internship
 - 🌱 I’m currently learning Data Science as a 3rd year student at UEH University
 - 📫 How to reach me: Email me at dqtphu.work@gmail.com
 
